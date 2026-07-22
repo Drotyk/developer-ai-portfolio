@@ -1,5 +1,10 @@
 # Персональний сайт про ШІ, програмістів і навчання
 
+![HTML5](https://img.shields.io/badge/HTML5-static-orange)
+![CSS3](https://img.shields.io/badge/CSS3-styling-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-interactive-yellow)
+![Status](https://img.shields.io/badge/status-ready-green)
+
 Односторінковий статичний сайт, де я  як студент комп’ютерних наук, ділюся думками про:
 - програмування;
 - штучний інтелект і його вплив на розробників;
