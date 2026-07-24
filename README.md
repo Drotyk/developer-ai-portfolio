@@ -1,5 +1,4 @@
-# Персональний сайт про ШІ, програмістів і навчання
-
+# developer-ai-portfolio
 ![HTML5](https://img.shields.io/badge/HTML5-static-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-styling-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-interactive-yellow)
