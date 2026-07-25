@@ -1,8 +1,9 @@
 # Персональний сайт про ШІ, програмістів і навчання
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-static-orange)
+![CSS3](https://img.shields.io/badge/CSS3-styling-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-interactive-yellow)
+![Status](https://img.shields.io/badge/status-ready-green)
 
 Односторінковий статичний сайт, де я  як студент комп’ютерних наук, ділюся думками про:
 - програмування;
